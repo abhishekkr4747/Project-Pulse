@@ -12,4 +12,3 @@ This is a Project Management app like Trello, we can assign boards, tasks, sub-t
 * #### Material Components for Android - Modular and customizable Material Design UI components for Android.<br>
 * #### Some more 3rd party libraries used in this project :<br>
 * #### CircularImageView - This is an Android project allowing to realize a circular ImageView in the simplest way possible.<br>
-
