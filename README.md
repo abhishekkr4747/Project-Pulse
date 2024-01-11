@@ -1,4 +1,4 @@
-#Project Pulse 
+# Project Pulse 
 This is a Project Management app like Trello, we can assign boards, tasks, sub-tasks to the members and many more.
 ![Screenshot_20240111_212909](https://github.com/abhishekkr4747/Project-Pulse/assets/117996188/23397eea-ea65-481c-9003-6d9b3b2a07a7)
 ![Screenshot_20240111_212934](https://github.com/abhishekkr4747/Project-Pulse/assets/117996188/a665ac05-a3e3-40a5-a43d-1828daacb626)
