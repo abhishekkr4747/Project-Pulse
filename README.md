@@ -1,5 +1,7 @@
 # Project Pulse 
 This is a Project Management app like Trello, we can assign boards, tasks, sub-tasks to the members and many more.
+# Screenshots 
+![Screenshot_20240111_212714](https://github.com/abhishekkr4747/Project-Pulse/assets/117996188/68c50d07-fefa-40ad-b238-40b85c7cc5ff =250x250)
 # Built With 🛠
 * #### Kotlin - First class and official programming language for Android development.<br>
 * #### Coroutines - For asynchronous and more.<br>
